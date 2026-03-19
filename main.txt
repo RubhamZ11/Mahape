@@ -1,3 +1,3 @@
-Environment: DEV
+Environment: main
 App Version: 1.0-dev
 Feature: Login API testing
