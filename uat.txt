@@ -1,4 +1,0 @@
-This is a UAT File at UAT branch.
-Environment: UAT
-App Version: 1.0-uat
-Feature: User Acceptance Testing
