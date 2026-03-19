@@ -1,3 +1,0 @@
-Environment: PROD
-App Version: 1.0
-Feature: Live Deployment
